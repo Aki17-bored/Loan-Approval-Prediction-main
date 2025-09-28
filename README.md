@@ -1,20 +1,5 @@
 # Loan Approval Prediction
 
-![Loan-Approval-Prediction](https://socialify.git.ci/neerajcodes888/Loan-Approval-Prediction/image?description=1&descriptionEditable=Welcome%20to%20Loan%20Approval%20Prediction%2C%20a%20web%20application%20designed%20to%20%20%20%20%20predict%20loan%20approvals%20using%20machine%20learning%20algorithms.%20&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Demo](#demo)
-  - [Demo Link](#demo-link)
-  - [Video Demo](#video-demo)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Prerequisites](#prerequisites)
-- [Features](#features)
-- [License](#license)
-- [Contribution](#contribution)
-
 ## Introduction
 
 Loan Approval Prediction is a user-friendly web application that utilizes machine learning models to predict whether a loan application will be approved or not. With a clean and intuitive interface, users can easily input their information and receive a quick decision on their loan application.
